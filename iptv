@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1 ,Jamuna tv
+http://tv.ebox.live:8080/live/ex-jamuna.m3u8
+#EXTINF:-1 ,Gazi tv
+http://tv.ebox.live:8080/live/gazi-tv.m3u8
+#EXTINF:-1 ,BanglaVision
+http://tv.ebox.live:8080/live/banae3.m3u8
+#EXTINF:-1 ,ATN
+http://tv.ebox.live:8080/live/ex-atnbd1.m3u8
+#EXTINF:-1 ,Channel I
+http://tv.ebox.live:8080/live/ex-chi.m3u8
+#EXTINF:-1 ,RTV
+http://tv.ebox.live:8080/live/rtv.m3u8
+#EXTINF:-1 ,Boishakhi
+http://tv.ebox.live:8080/live/ex-boishakhi.m3u8
+#EXTINF:-1 ,News24
+http://tv.ebox.live:8080/live/ex-news24-20.m3u8
+#EXTINF:-1 ,DBC
+http://tv.ebox.live:8080/live/dbc.m3u8
+#EXTINF:-1 ,ATN NEWS
+http://tv.ebox.live:8080/live/ex-atnae.m3u8
+#EXTINF:-1 ,GAAN
+http://tv.ebox.live:8080/live/ex-gan.m3u8
+#EXTINF:-1 ,Masranga
+http://tv.ebox.live:8080/live/maasranga.m3u8
+#EXTINF:-1 ,CH 9
+http://tv.ebox.live:8080/live/channel9.m3u8
+#EXTINF:-1 ,SONY SIX HD
+http://tv.ebox.live:8080/live/sonysix.m3u8
+#EXTINF:-1 ,SONY ESPN
+http://tv.ebox.live:8080/live/sonyespn.m3u8
+#EXTINF:-1 ,SONY TEN 1 HD
+http://103.49.168.172:8081/ebox/ten1/chunks.m3u8?nimblesessionid=24351048&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDg6MDA6NDggQU0maGFzaF92YWx1ZT1YOEdSWjhiRjNsdlNvL2I4Z01QKzV3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 ,SONY TEN 2 HD
+http://tv.ebox.live:8080/live/sonyten-2.m3u8
+#EXTINF:-1 ,SONY TEN 3 HD
+http://tv.ebox.live:8080/live/sonyten-3.m3u8
+#EXTINF:-1 ,TEN SPORTS
+http://tv.ebox.live:8080/live/ten-sports.m3u8
+#EXTINF:-1 ,WILLOW HD
+http://tv.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF:-1 ,PTV
+http://tv.ebox.live:8080/live/ptvsports.m3u8
+#EXTINF:-1 ,SKY CRICKET
+http://tv.ebox.live:8080/live/Sky-Sports-cric.m3u8
+#EXTINF:-1 ,SKY SPORT MIX
+http://tv.ebox.live:8080/live/Sky-Sports-Mix.m3u8
+#EXTINF:-1 ,BEIN SPORTS 2
+http://tv.ebox.live:8080/live/bein-sports-2.m3u8
+#EXTINF:-1 ,BEIN SPORTS 11
+http://tv.ebox.live:8080/live/bein-sports-eng-11.m3u8
+#EXTINF:-1 ,BEIN SPORTS FR
+http://tv.ebox.live:8080/live/bein-sports-fr-1.m3u8
+#EXTINF:-1 ,STAR SPORTS 1 HD
+http://tv.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1 ,STAR SPORTS 1HIN
+http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
+#EXTINF:-1 ,STAR SPORTS 2 HD
+http://tv.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF:-1 ,STAR SPORTS 3
+http://tv.ebox.live:8080/live/starsports-3.m3u8
+#EXTINF:-1 ,STAR SPORTS SELECT 1 HD
+http://tv.ebox.live:8080/live/starsportsselect-1.m3u8
+#EXTINF:-1 ,STAR SPORTS SELECT 2 HD
+http://tv.ebox.live:8080/live/starsportsselect-2.m3u8
+#EXTINF:-1 ,ZEE Bangla HD
+http://tv.ebox.live:8080/live/zee-bangla.m3u8
+#EXTINF:-1 ,STAR JHALSHA HD
+http://tv.ebox.live:8080/live/star-jalsha.m3u8
+#EXTINF:-1 ,COLORS BANGLA
+http://tv.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF:-1 ,ZEE Cinema Bangla
+http://tv.ebox.live:8080/live/zee-cinema-bangla.m3u8
+#EXTINF:-1 ,Jhalsha Movies HD
+http://tv.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF:-1 ,STAR PLUS HD
+http://tv.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:-1 ,ZEE TV HD
+http://tv.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:-1 ,SONY SAB
+http://tv.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:-1 ,STAR GOLD HD
+http://tv.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:-1 ,STAR GOLD SELECT HD
+http://tv.ebox.live:8080/live/star-gold-select.m3u8
+#EXTINF:-1 ,ZEE CINEMA HD
+http://tv.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:-1 ,MAX HD
+http://tv.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:-1 ,PIX HD
+http://tv.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:-1 ,STAR MOVIES HD
+http://tv.ebox.live:8080/live/star-movies.m3u8
+#EXTINF:-1 ,HBO
+http://tv.ebox.live:8080/live/hbo.m3u8
+#EXTINF:-1 ,NICK
+http://tv.ebox.live:8080/live/nick.m3u8
+#EXTINF:-1 ,NAT GEO
+http://tv.ebox.live:8080/live/natg.m3u8
+#EXTINF:-1 ,ANIMAL PLANET
+http://tv.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:-1 ,GTV
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8?nimblesessionid=24350298&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDc6NTk6NTIgQU0maGFzaF92YWx1ZT1VelRZcTJKUHNuQ3RWOFF2N1Z6UnFRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 ,gtv 2
+http://tv.bdtv.xyz:8080/token/gazitv/chunks.m3u8?nimblesessionid=56327&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDc6NTI6NDAgQU0maGFzaF92YWx1ZT1YcDVrOStDR0lzVGNkTXZKMHBGeFJnPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 ,EKATTOR TV
+http://tv.bdtv.xyz:8080/token/ekattor/chunks.m3u8?nimblesessionid=56330&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDc6NTM6MzMgQU0maGFzaF92YWx1ZT16dFVNUWxlc0laUEZaeEdiNUk5QjlRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 ,DURONTO
+http://cdn.naturalbd.com:8083/j-Duronto/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SATV
+http://cdn.naturalbd.com:8083/j-SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SONY HD
+http://tv.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:-1 ,MOVIES NOW
+http://103.49.168.172:8081/ebox/in_movies_now/chunks.m3u8?nimblesessionid=24352090&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDg6MDI6MDUgQU0maGFzaF92YWx1ZT0xaHRnaE1OQUR1MHREbHpObnhIS0lBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 ,DEEPTO TV
+http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8?nimblesessionid=24352549&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDg6MDI6MzggQU0maGFzaF92YWx1ZT14KzVBbm5Xb3NBR250QjZ5KzQ1MWJnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 ,GTV HD
+http://tv.hkonline.com.bd:8080/2/index.m3u8?token=bbd97c8846258b4b35e9522318aec6ffa2eb9e97-5627bdfbd08c87a7f6b7f5cd97fd8089-1600859123-1600848323&remote=27.54.151.213
+#EXTINF:-1 ,ALJAJEERA
+http://10.16.100.204/hls/alja-zeera.m3u8
+#EXTINF:-1 ,DHOOM MUSIC
+http://10.16.100.201/hindi/dhoom_music.m3u8
+#EXTINF:-1 ,PK SPORTS
+https://tempx.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/chunks.m3u8?nimblesessionid=70268747&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6MTI6NTggQU0maGFzaF92YWx1ZT14aDRGQ3lxOHhtaEVSa2lvd0VNVnl3PT0mdmFsaWRtaW51dGVzPTUwJmlkPTU=
+#EXTINF:-1 ,CHANNEL S UK
+https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelsbd.stream/live-orgin/channelsbd.stream/chunks.m3u8?nimblesessionid=24953124&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6MTQ6NTIgQU0maGFzaF92YWx1ZT1HMXZwQUhMTm9vQStJOEtEVVl5YVVnPT0mdmFsaWRtaW51dGVzPTUwJmlkPTU=
