@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 ,Jamuna tv
 http://tv.ebox.live:8080/live/ex-jamuna.m3u8
+#EXTINF:-1 ,BTV
+http://103.211.185.98:8082/53/index.m3u8?token=b6cbc35143f39b9c6436a21586643fdad9933bd6-0c20162644c173bb24827f96991a0842-1600958341-1600947541&remote=27.54.151.213
 #EXTINF:-1 ,NTV
-http://cdn.bdtv.xyz:8080/token/ntv/chunks.m3u8?nimblesessionid=3302479&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NDU6MjggQU0maGFzaF92YWx1ZT1DMnRES25XUFdWN2p1QTVyNkZNM3ZRPT0mdmFsaWRtaW51dGVzPTU=
+http://10.16.100.205/hls/ntv_b_720.m3u8
 #EXTINF:-1 ,BanglaVision
 http://tv.ebox.live:8080/live/banae3.m3u8
 #EXTINF:-1 ,ATN
@@ -16,27 +18,23 @@ http://tv.ebox.live:8080/live/ex-boishakhi.m3u8
 #EXTINF:-1 ,SATV
 http://tv.bdtv.xyz:8080/token/satv/chunks.m3u8?nimblesessionid=66677&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDg6MDE6NDQgQU0maGFzaF92YWx1ZT1nSDBNSmJacDRhUzUyTEZzY1VyYjh3PT0mdmFsaWRtaW51dGVzPTU=
 #EXTINF:-1 ,MOHONA
-http://tv.bdtv.xyz:8080/token/mohona/chunks.m3u8?nimblesessionid=66685&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDg6MDI6MjkgQU0maGFzaF92YWx1ZT15bGNlRU0wK0JSV28ya2N3akh1UjRnPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,NAGORIK
-http://cdn.bdtv.xyz:8080/token/nagorik/chunks.m3u8?nimblesessionid=3302729&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDg6MDI6NTMgQU0maGFzaF92YWx1ZT1VeU44Y3lnazA4L2gyVnN4Z2tHdW1nPT0mdmFsaWRtaW51dGVzPTU=
+http://10.16.100.205/hls/mohona_tv_720.m3u8
+#EXTINF:-1 ,BIJOY
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
 #EXTINF:-1 ,MYTV
-http://tv.bdtv.xyz:8080/token/mytv/chunks.m3u8?nimblesessionid=66697&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDg6MDM6MjkgQU0maGFzaF92YWx1ZT1SRytOdWhTQ01Oc1E3M2FpTkxEN3N3PT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,BANGLA TV
-http://tv.bdtv.xyz:8080/token/banglatv/chunks.m3u8?nimblesessionid=66701&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDg6MDM6NTIgQU0maGFzaF92YWx1ZT1tNVVubDk5cnQ1c00zbXNrTWthZW1nPT0mdmFsaWRtaW51dGVzPTU=
+http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
 #EXTINF:-1 ,GTV
-http://tv.bdtv.xyz:8080/token/gazitv/chunks.m3u8?nimblesessionid=66706&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDg6MDQ6MjEgQU0maGFzaF92YWx1ZT0xSWhUampoU2pZdUJzSFd5VEdhSmFBPT0mdmFsaWRtaW51dGVzPTU=
+http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-1 ,ASIAN TV
-http://tv.bdtv.xyz:8080/token/asian/chunks.m3u8?nimblesessionid=66709&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDg6MDQ6NDMgQU0maGFzaF92YWx1ZT1UZ1A4VUNZcG9COHFMZVp6dDJJTzZnPT0mdmFsaWRtaW51dGVzPTU=
+http://10.16.100.203:8082/bangla/tv_asian.m3u8
 #EXTINF:-1 ,SOMOY
-http://tv.bdtv.xyz:8080/token/somoy/chunks.m3u8?nimblesessionid=66711&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDg6MDU6MjAgQU0maGFzaF92YWx1ZT1OaGRjM3I3em9GTHkxQjRxR2x3bHBBPT0mdmFsaWRtaW51dGVzPTU=
+http://10.16.100.205/hls/somoy_tv.m3u8
 #EXTINF:-1 ,INDEPENDENT TV
-http://tv.bdtv.xyz:8080/token/independent/chunks.m3u8?nimblesessionid=66721&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDg6MDY6MDIgQU0maGFzaF92YWx1ZT1zV2xrd2xRdisxSWg3OXlwa0JXWmJBPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,BTV WORLD
-http://tv.bdtv.xyz:8080/token/btv/chunks.m3u8?nimblesessionid=66724&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDg6MDY6MzEgQU0maGFzaF92YWx1ZT1jZDNqcm00dzlYa1lyQkxKcUdRNGV3PT0mdmFsaWRtaW51dGVzPTU=
+http://10.16.100.203:8082/bangla/news_independent.m3u8
 #EXTINF:-1 ,News24
 http://tv.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1 ,DESH TV
-http://cdn.bdtv.xyz:8080/token/desh/chunks.m3u8?nimblesessionid=3303204&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDg6MzA6MDQgQU0maGFzaF92YWx1ZT1SVEErY1p0UmRNT205MEVhaWkvSmVBPT0mdmFsaWRtaW51dGVzPTU=
+http://10.16.100.205/hls/desh_tv_720-00000814.ts
 #EXTINF:-1 ,DBC
 http://tv.ebox.live:8080/live/dbc.m3u8
 #EXTINF:-1 ,ATN NEWS
@@ -47,8 +45,12 @@ http://tv.ebox.live:8080/live/ex-gan.m3u8
 http://tv.ebox.live:8080/live/maasranga.m3u8
 #EXTINF:-1 ,CH 9
 http://tv.ebox.live:8080/live/channel9.m3u8
-#EXTINF:-1 ,CH 24
-http://bd.bdiptv.pw:8081/9gCF7hyKUaWsGmLfbTffRsN/channel24/chunks.m3u8?nimblesessionid=9597634
+#EXTINF:-1 ,DURONTO
+http://10.16.100.201/hindi/duronto_720_cm.m3u8
+#EXTINF:-1 ,NAGORIK
+http://103.211.185.98:8082/59/index.m3u8?token=3bf255aa0d98d1df097d11086eb2bb190a3734d8-269680628e3876d4a431bec82e9a58fa-1600958378-1600947578&remote=27.54.151.213
+#EXTINF:-1 ,ANONDO
+http://103.211.185.98:8082/16/index.m3u8?token=6361cecabfa28e201aa31facfe25a06b0a550740-911c5f9fe489c35828f0c154d7a99619-1600958417-1600947617&remote=27.54.151.213
 #EXTINF:-1 ,SONY SIX HD
 http://tv.ebox.live:8080/live/sonysix.m3u8
 #EXTINF:-1 ,SONY ESPN
@@ -115,6 +117,8 @@ http://tv.ebox.live:8080/live/sony-max.m3u8
 http://tv.ebox.live:8080/live/sony-pix.m3u8
 #EXTINF:-1 ,STAR MOVIES HD
 http://tv.ebox.live:8080/live/star-movies.m3u8
+#EXTINF:-1 ,STAR MOVIES SELECT HD
+http://zero4tv.anytv.live:8080/starmov/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,HBO
 http://tv.ebox.live:8080/live/hbo.m3u8
 #EXTINF:-1 ,NICK
@@ -145,131 +149,77 @@ http://tv.hkonline.com.bd:8080/2/index.m3u8?token=bbd97c8846258b4b35e9522318aec6
 http://10.16.100.204/hls/alja-zeera.m3u8
 #EXTINF:-1 ,DHOOM MUSIC
 http://10.16.100.201/hindi/dhoom_music.m3u8
-#EXTINF:-1 ,ZOOM TV
-http://tv.bdtv.xyz:8080/vZwThEZJFU969kVLeH9R6CW/zoom/chunks.m3u8?nimblesessionid=66620
-#EXTINF:-1 ,SKY FOOTBALL
-http://s4.bdtv.xyz:8080/token/skyfootball/chunks.m3u8?nimblesessionid=39691&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NDY6MzUgQU0maGFzaF92YWx1ZT1aMmlnbldLRTlBMHdwdHhrR2hTN2RRPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,SKY PL
-http://s4.bdtv.xyz:8080/token/skypremier/chunks.m3u8?nimblesessionid=39696&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NDc6MTcgQU0maGFzaF92YWx1ZT1MYjFPRGVTTlIwYndXNEFhT3E3NzZnPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,SKY MAIN
-http://s4.bdtv.xyz:8080/token/skymain/chunks.m3u8?nimblesessionid=39701&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NDc6NDYgQU0maGFzaF92YWx1ZT0zSHRuNEtxLzRMbnFhUy9iQ1dBVWF3PT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,GEO SUPER
-http://s4.bdtv.xyz:8080/token/geosuper/chunks.m3u8?nimblesessionid=39704&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NDg6MjMgQU0maGFzaF92YWx1ZT13VnRGeldId3YyL2NCV0JCZ2JndzN3PT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,IPL
-http://s5.bdiptv.pw:8081/token/ipl2/chunks.m3u8?nimblesessionid=38404&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NDk6MDIgQU0maGFzaF92YWx1ZT03WGQxZm00S05EWEJ5bm9hQkwra2R3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 ,SONY SIX HD
-http://s3.bdtv.xyz:8080/token/sonysix/chunks.m3u8?nimblesessionid=66636&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NTA6MDIgQU0maGFzaF92YWx1ZT1UY3kxTldOUjEyN3pwY3g0czZtc2x3PT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,SONY TEN 1 HD
-http://s3.bdtv.xyz:8080/token/ten1/chunks.m3u8?nimblesessionid=66638&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NTA6MjkgQU0maGFzaF92YWx1ZT1mNUdJMjZYR1JnWjIyUmZTZWhOcXNnPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,SONY TEN 2 HD
-http://s3.bdtv.xyz:8080/token/ten2/chunks.m3u8?nimblesessionid=66641&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NTA6NTcgQU0maGFzaF92YWx1ZT1hUnE3cDQxQ1pYR0JKdENFUTR5ZGtBPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,SONY TEN 3 HD
-http://s3.bdtv.xyz:8080/token/ten3/chunks.m3u8?nimblesessionid=66646&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NTE6MzYgQU0maGFzaF92YWx1ZT1uTWJWVEp0TTdJTnVBV1lKODkyQzZBPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,SKY CRICKET
-http://s4.bdtv.xyz:8080/token/skycricket/chunks.m3u8?nimblesessionid=39710&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NTI6MjggQU0maGFzaF92YWx1ZT15OStCY3BTeVFMRnRKc3VyWCtEOEpnPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,STAR SPORTS 1 HD HIN
-http://s4.bdtv.xyz:8080/token/starsports1/chunks.m3u8?nimblesessionid=39715&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NTI6NTUgQU0maGFzaF92YWx1ZT0zZ2pCblZvRmVWN3lZcnhRWXo2RDJnPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,PTV SPORTS
-http://s4.bdtv.xyz:8080/token/ptv/chunks.m3u8?nimblesessionid=39717&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NTM6MjUgQU0maGFzaF92YWx1ZT1KbVd3bWJpNDJPb3RrRU9vZGF6TGZRPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,WILLOW
-http://s4.bdtv.xyz:8080/token/willow/chunks.m3u8?nimblesessionid=39719&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NTQ6MTAgQU0maGFzaF92YWx1ZT15REtQbmNvNHpJNGVINXhhei9QbCtnPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,BEIN SPORTS 1 HD
-http://s4.bdtv.xyz:8080/token/BeinSports1/chunks.m3u8?nimblesessionid=39721&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NTQ6MzUgQU0maGFzaF92YWx1ZT1WemZlcHZ3dkR5d2xhTzZQaW9VS09BPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,BEIN SPORTS 2
-http://s4.bdtv.xyz:8080/token/BeinSports2/chunks.m3u8?nimblesessionid=39727&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NTU6MzEgQU0maGFzaF92YWx1ZT1FNzRvbEZzb2JjQngvZk5xNG9OSmRRPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,BEIN SPORTS 3 HD
-http://s4.bdtv.xyz:8080/token/BeinSports3/chunks.m3u8?nimblesessionid=39730&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NTY6MDggQU0maGFzaF92YWx1ZT1OZUd4SHloclpHS201dnU3Vlp2NFVBPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,SENATA SPORTS 2
-http://s4.bdtv.xyz:8080/token/BeinSports4/chunks.m3u8?nimblesessionid=39732&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NTY6MzcgQU0maGFzaF92YWx1ZT1LK1phSHp1NUF1VU9iSkdwUlNTaGtnPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,SENATA SPORTS 1
-http://s4.bdtv.xyz:8080/token/bein-usa/chunks.m3u8?nimblesessionid=39738&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NTc6MzcgQU0maGFzaF92YWx1ZT0rWEZlTkFVdkhrLzBFdzQvWnUwZklBPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,TEN SPORTS
-http://s4.bdtv.xyz:8080/token/osn-cricket/chunks.m3u8?nimblesessionid=39748&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NTg6MzYgQU0maGFzaF92YWx1ZT0rMC9oTFR1NWQyd0IrNEtXRlRKZUtnPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,GTV
-http://tv.bdtv.xyz:8080/token/gazitv/chunks.m3u8?nimblesessionid=66665&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NTk6MTAgQU0maGFzaF92YWx1ZT04ZlpLc05HU2Zsb2dKa011Q051Y0F3PT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,ETV
-http://tv.bdtv.xyz:8080/token/ekushey/chunks.m3u8?nimblesessionid=66668&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDc6NTk6NDIgQU0maGFzaF92YWx1ZT1KNnVYN1BSa2RXVzdvN0Y0YVR5ZFVRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 ,ATG SPORTS
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 ,CHANNEL S
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8?checkedby:hlscat.com
+#EXTINF:-1 ,ALJAJEERA
+http://10.16.100.204/hls/alja-zeera.m3u8
 #EXTINF:-1 ,PEACE TV
-http://cdn.bdtv.xyz:8080/token/peacetv/chunks.m3u8?nimblesessionid=3302668&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDg6MDA6MDUgQU0maGFzaF92YWx1ZT16NzZWT09OeFB5SHIvWDAveFNsV1lRPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,DEEPTO
-http://tv.bdtv.xyz:8080/token/deepto/chunks.m3u8?nimblesessionid=66672&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDg6MDA6NTEgQU0maGFzaF92YWx1ZT1xM0l6clUwOEx0ZTc3Uml6dUJvckNnPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,SANGEET BANGLA
-http://cdn.bdtv.xyz:8080/token/SangeetBangla/chunks.m3u8?nimblesessionid=3302786&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDg6MDc6MDcgQU0maGFzaF92YWx1ZT1xRGo0L1RpZkxhRXh2NEFEbi9mSDBRPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,SONY AATH
-http://tv.bdtv.xyz:8080/token/sonyaath/chunks.m3u8?nimblesessionid=66728&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDg6MDc6NDYgQU0maGFzaF92YWx1ZT1Zb3MzRnltSXRVMUY4Qy9yRnYwSlR3PT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,COLORS RISHTEY
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/RishteyCine/chunks.m3u8?nimblesessionid=3302808
-#EXTINF:-1 ,COLORS
-http://tv.bdtv.xyz:8080/vZwThEZJFU969kVLeH9R6CW/colors/chunks.m3u8?nimblesessionid=66734
-#EXTINF:-1 ,STAR PLUS
-http://tv.bdtv.xyz:8080/vZwThEZJFU969kVLeH9R6CW/StarPlus/chunks.m3u8?nimblesessionid=66741
-#EXTINF:-1 ,SONY
-http://tv.bdtv.xyz:8080/vZwThEZJFU969kVLeH9R6CW/SonyTV/chunks.m3u8?nimblesessionid=66744
-#EXTINF:-1 ,MAX
-http://tv.bdtv.xyz:8080/vZwThEZJFU969kVLeH9R6CW/sonymax/chunks.m3u8?nimblesessionid=66747
-#EXTINF:-1 ,STAR GOLD
-http://tv.bdtv.xyz:8080/vZwThEZJFU969kVLeH9R6CW/StarGold/chunks.m3u8?nimblesessionid=66751
-#EXTINF:-1 ,ZEE ETC
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/Zetc/chunks.m3u8?nimblesessionid=3302851
-#EXTINF:-1 ,MAASTI MUSIC
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/mtv/chunks.m3u8?nimblesessionid=3302861
-#EXTINF:-1 ,ZEE BOLLYWOOD
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/zeebolly/chunks.m3u8?nimblesessionid=3302875
-#EXTINF:-1 ,STAR BHARAT
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/LifeOK/chunks.m3u8?nimblesessionid=3302888
-#EXTINF:-1 ,& PIC HD
-http://tv.bdtv.xyz:8080/vZwThEZJFU969kVLeH9R6CW/andpics/chunks.m3u8?nimblesessionid=66766
-#EXTINF:-1 ,ZOOM TV
-http://tv.bdtv.xyz:8080/vZwThEZJFU969kVLeH9R6CW/zoom/chunks.m3u8?nimblesessionid=66777
-#EXTINF:-1 ,ZEE TV HD
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/ZeeTV/chunks.m3u8?nimblesessionid=3302916
-#EXTINF:-1 ,& TV HD
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/andtv/chunks.m3u8?nimblesessionid=3302923
-#EXTINF:-1 ,ZEE CINEMA
-http://bd.bdiptv.pw:8081/9gCF7hyKUaWsGmLfbTffRsN/bindass/chunks.m3u8?nimblesessionid=9597397
-#EXTINF:-1 ,DILL SE
-http://bd.bdiptv.pw:8081/9gCF7hyKUaWsGmLfbTffRsN/mtunes/chunks.m3u8?nimblesessionid=9597404
-#EXTINF:-1 ,9X MUSIC
-http://bd.bdiptv.pw:8081/9gCF7hyKUaWsGmLfbTffRsN/9xm/chunks.m3u8?nimblesessionid=9597408
-#EXTINF:-1 ,ZING
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/zing/chunks.m3u8?nimblesessionid=3302957
-#EXTINF:-1 ,ZEE CINEMA HD
-http://tv.bdtv.xyz:8080/vZwThEZJFU969kVLeH9R6CW/ZeeCinema/chunks.m3u8?nimblesessionid=66787http://tv.bdtv.xyz:8080/vZwThEZJFU969kVLeH9R6CW/ZeeCinema/chunks.m3u8?nimblesessionid=66787
-#EXTINF:-1 ,DISCOVERY
-http://tv.bdtv.xyz:8080/vZwThEZJFU969kVLeH9R6CW/discovery/chunks.m3u8?nimblesessionid=66797
-#EXTINF:-1 ,NICK
-http://tv.bdtv.xyz:8080/vZwThEZJFU969kVLeH9R6CW/nick/chunks.m3u8?nimblesessionid=66802
-#EXTINF:-1 ,SONY PIX HD
-http://tv.bdtv.xyz:8080/vZwThEZJFU969kVLeH9R6CW/sonypix/chunks.m3u8?nimblesessionid=66838
-#EXTINF:-1 ,HBO MOVIES
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/hbo/chunks.m3u8?nimblesessionid=3303000
-#EXTINF:-1 ,STAR MOVIES HD
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/starmovies/chunks.m3u8?nimblesessionid=3303010
-#EXTINF:-1 ,NAT GEO HD
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/NatGeo/chunks.m3u8?nimblesessionid=3303027
+http://10.16.100.207:8082/sports/peacetv.m3u8
+#EXTINF:-1 ,QURAN TV
+http://10.16.100.207:8082/sports/qurantv.m3u8
+#EXTINF:-1 ,SUNNAH TV
+http://10.16.100.207:8082/sports/sunnahtv.m3u8
+#EXTINF:-1 ,GTV ICC
+http://10.16.100.207:8082/sports/bdchgazi.m3u8
+#EXTINF:-1 ,CN HD
+http://103.211.185.98:8082/79/index.m3u8?token=63d455a494eed801f5b44c5df71e638524c68ff1-81be3d05ce4596b19e03bd14faf79385-1600957548-1600946748&remote=27.54.151.213
 #EXTINF:-1 ,& FLIX HD
-http://tv.bdtv.xyz:8080/vZwThEZJFU969kVLeH9R6CW/andflix/chunks.m3u8?nimblesessionid=66810
-#EXTINF:-1 ,& PRIVE HD
-http://tv.bdtv.xyz:8080/vZwThEZJFU969kVLeH9R6CW/andprive/chunks.m3u8?nimblesessionid=66813
-#EXTINF:-1 ,TLC HD
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/axn/chunks.m3u8?nimblesessionid=3303058
-#EXTINF:-1 ,DUBAI MOVIES
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/dubaione/chunks.m3u8?nimblesessionid=3303064
-#EXTINF:-1 ,FOX MOVIES
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/foxmovies/chunks.m3u8?nimblesessionid=3303071
-#EXTINF:-1 ,HISTORY HD
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/history/chunks.m3u8?nimblesessionid=3303083
-#EXTINF:-1 ,ITV 2
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/skyaction/chunks.m3u8?nimblesessionid=3303091
-#EXTINF:-1 ,ZEE CAFE
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/zeecafe/chunks.m3u8?nimblesessionid=3303104
-#EXTINF:-1 ,& EXPLORE HD
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/skymovies/chunks.m3u8?nimblesessionid=3303112
-#EXTINF:-1 ,MNX MOVIES
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/mnx/chunks.m3u8?nimblesessionid=3303129
-#EXTINF:-1 ,MOVIES NOW
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/moviesnow/chunks.m3u8?nimblesessionid=3303142
-#EXTINF:-1 ,ROMEDY NOW
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/romedy/chunks.m3u8?nimblesessionid=3303168
-#EXTINF:-1 ,NAT GEO PEOPLE
-http://cdn.bdiptv.pw:8080/c4ZvfL3D0zTdzep3jVOq2HR/natgeopeople/chunks.m3u8?nimblesessionid=3303178
+http://103.211.185.98:8082/78/index.m3u8?token=f510acfbc1da70d5ddbc0307d90867a44ebeba77-8e1423c8c7494cc4deec92de4a79e344-1600957590-1600946790&remote=27.54.151.213
+#EXTINF:-1 ,BBC
+http://103.211.185.98:8082/44/2020/09/24/11/31/23-06000.ts?token=5132a3dac7b8b705edcb4785502b208e836983a3-fc75014b9d80918c84d35210a3c16944-1600957615-1600946815
+#EXTINF:-1 ,MNX
+http://103.211.185.98:8082/39/index.m3u8?token=339f3e6b83416c5a8be2726850aa7e830e275e21-987f72737ada9c3f39ce3ae011396fff-1600957637-1600946837&remote=27.54.151.213
+#EXTINF:-1 ,B4U MOVIES
+http://103.211.185.98:8082/45/index.m3u8?token=8d0ee735064fa0ba3a7a0784159b83b7de8f2c9b-7fe68e528bb8716ed85bea4d83596284-1600957649-1600946849&remote=27.54.151.213
+#EXTINF:-1 ,COLORS HD
+http://103.211.185.98:8082/66/index.m3u8?token=bcfb5c4b08d15c56756c161c189f8ead8d1cd63b-e7c0001c1c63cb5536493dda35822863-1600957684-1600946884&remote=27.54.151.213
+#EXTINF:-1 ,SONY 8
+http://103.211.185.98:8082/33/index.m3u8?token=6d58c9313e202fa9d5de4be814c0484275b369a7-215d5391ef447f17951f2a6ec99bf03d-1600957703-1600946903&remote=27.54.151.213
+#EXTINF:-1 ,ZEE BANGLA HD
+http://103.211.185.98:8082/34/index.m3u8?token=b5c48175be1849c30f9d937304f244defeb3cbd2-8bbc25c09b7dae1389287c2d9ad7bcdb-1600957722-1600946922&remote=27.54.151.213
+#EXTINF:-1 ,ZEE CINEMA
+http://103.211.185.98:8082/29/index.m3u8?token=f9785c29274368d020ea7902dc8be59838f373c1-9df1ef4e229ab02a52bab908d64041d5-1600957739-1600946939&remote=27.54.151.213
+#EXTINF:-1 ,STAR JHALSHA
+http://103.211.185.98:8082/30/index.m3u8?token=fabada41e268eec4553d7f842ae829dde485029f-091d193804bb9c395ac4a0a4d6c65dc4-1600957757-1600946957&remote=27.54.151.213
+#EXTINF:-1 ,AKASH 8
+http://103.211.185.98:8082/32/index.m3u8?token=4a0c28b49b65ec1e34e211e3c61a3f0f16e6e7be-119a9d97edcd6ea7e1b94ec84c474d75-1600957791-1600946991&remote=27.54.151.213
+#EXTINF:-1 ,ZEE CINEMA BANGLA
+http://103.211.185.98:8082/29/index.m3u8?token=38c93840331c16481046363e031e268fdb2579f8-a111d84e88b8e345720ccef226f79064-1600957806-1600947006&remote=27.54.151.213
+#EXTINF:-1 ,IPL STAR SPORTS
+http://103.211.185.98:8082/201/index.m3u8?token=b70daf7a164f9355ffc28b974b473ee50a8f0fd6-09791086669e8efac76aa54e054f4f09-1600957829-1600947029&remote=27.54.151.213
+#EXTINF:-1 ,STAR SPORTS 1
+http://103.211.185.98:8082/25/index.m3u8?token=dc8751129c1753c69eaf83c8b523ebf797a0e057-6e38445edb0d07351ce6b7dd6001f3b2-1600957853-1600947053&remote=27.54.151.213
+#EXTINF:-1 ,SONY SIX HD
+http://103.211.185.98:8082/24/index.m3u8?token=e6f116702a6517dbb39a00678700279d0b7e889c-5d444cfaf773fe3eef489ad0668250c0-1600957880-1600947080&remote=27.54.151.213
+#EXTINF:-1 ,SONY TEN 1 HD
+http://103.211.185.98:8082/20/index.m3u8?token=6ceadfe9516f83b1a4d76bbf87ee6b1488a86e27-af07e1ff1f1d2a3d22957b645e748396-1600957896-1600947096&remote=27.54.151.213
+#EXTINF:-1 ,SONY TEN 2 HD
+http://103.211.185.98:8082/21/index.m3u8?token=9ea29eae17422bfc00ba16b1344503b933e10acb-45dd84f6adb79c5c62900357caa38d03-1600957913-1600947113&remote=27.54.151.213
+#EXTINF:-1 ,SONY TEN 3 HD
+http://103.211.185.98:8082/22/index.m3u8?token=c861efd17a972b8130a9efafea59ee02bd1d52e8-e49243e19c4cc0951ca81820cb5d79e4-1600957939-1600947139&remote=27.54.151.213
+#EXTINF:-1 ,SONY ESPN
+http://103.211.185.98:8082/23/index.m3u8?token=11ca2304650cfac324c5ae8859bfd78c6d572c1b-57e4950578816ca7ee27e1591ede9332-1600957960-1600947160&remote=27.54.151.213
+#EXTINF:-1 ,STAR SPORT SEL 1 HD
+http://103.211.185.98:8082/27/index.m3u8?token=8c441ad247cb7c9e262239edde4c0b893449d55f-17c0858edfd2d993c660edf64ca48402-1600957978-1600947178&remote=27.54.151.213
+#EXTINF:-1 ,STAR SPORTS SEL 2 HD
+http://103.211.185.98:8082/28/index.m3u8?token=aadb1c851385607c896218262c05b6cb187bb900-a1a32ebc1e2c27337fc50aa63fc34c94-1600958004-1600947204&remote=27.54.151.213
+#EXTINF:-1 ,PTV SPORTS
+http://103.211.185.98:8082/73/index.m3u8?token=9702f28444d660ba86a3000fb6d578900da789d8-742798122bf7063d73f5393ec1409af0-1600958025-1600947225&remote=27.54.151.213
+#EXTINF:-1 ,& PIC
+http://103.211.185.98:8082/100/index.m3u8?token=f7a0b63737a4e911d3cc1bae814ce4577dcfdf7b-9e65344d1aa1bc3f4153b43df5cfe031-1600958046-1600947246&remote=27.54.151.213
+#EXTINF:-1 ,STAR GOLD HD
+http://103.211.185.98:8082/75/index.m3u8?token=86d50e8333cf9a5b336a7f6ec40d5e1683cda22d-5d63a2ccbbdb81324910210ff2586cf2-1600958177-1600947377&remote=27.54.151.213
+#EXTINF:-1 ,STAR PLUS
+http://103.211.185.98:8082/67/index.m3u8?token=aba8523df79bea3d127169a97d2a86228d63901f-8c78e1b476163ab7ce1cf0925576f48c-1600958192-1600947392&remote=27.54.151.213
+#EXTINF:-1 ,ZEE TV HD
+http://103.211.185.98:8082/40/index.m3u8?token=6f9a56992c84ca1a55a2f0369ccc0deb45d9430b-37cb12d5b146ff78c7bc2fc2a0d29d28-1600958236-1600947436&remote=27.54.151.213
+#EXTINF:-1 ,ZEE BOLLYWOOD
+http://103.211.185.98:8082/76/index.m3u8?token=a8f8c0e994c60c34d6377a49e00fef5ceadcd12f-c3a040ba9577d8628f902ea3d7b6a2aa-1600958250-1600947450&remote=27.54.151.213
+#EXTINF:-1 ,& TV
+http://103.211.185.98:8082/74/index.m3u8?token=00f16bab53839b81777753567cabfe6cc6fbbb80-766428fee7db77f07d368c2463709034-1600958268-1600947468&remote=27.54.151.213
+#EXTINF:-1 ,SONY
+http://103.211.185.98:8082/38/2020/09/24/11/42/50-06000.ts?token=ed3d341acccb9e46b00a52c140c3f5407d674cec-096fc9172e573c7e2e8030c5b32d3411-1600958285-1600947485
+#EXTINF:-1 ,GTV NEW
+http://103.211.185.98:8082/1/index.m3u8?token=b9146348720cd14c5e1978adfd7b0afe03e70d6b-ed19bd1dd2168a78ebe24688be5e9dd7-1600958311-1600947511&remote=27.54.151.213
