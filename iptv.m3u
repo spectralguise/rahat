@@ -2,7 +2,7 @@
 #EXTINF:-1 ,Jamuna tv
 http://tv.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1 ,BTV
-http://103.211.185.98:8082/53/index.m3u8?token=b6cbc35143f39b9c6436a21586643fdad9933bd6-0c20162644c173bb24827f96991a0842-1600958341-1600947541&remote=27.54.151.213
+http://45.249.187.238:8081/hls/new24.m3u8
 #EXTINF:-1 ,NTV
 http://10.16.100.205/hls/ntv_b_720.m3u8
 #EXTINF:-1 ,BanglaVision
@@ -16,7 +16,7 @@ http://tv.ebox.live:8080/live/rtv.m3u8
 #EXTINF:-1 ,Boishakhi
 http://tv.ebox.live:8080/live/ex-boishakhi.m3u8
 #EXTINF:-1 ,SATV
-http://tv.bdtv.xyz:8080/token/satv/chunks.m3u8?nimblesessionid=66677&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDg6MDE6NDQgQU0maGFzaF92YWx1ZT1nSDBNSmJacDRhUzUyTEZzY1VyYjh3PT0mdmFsaWRtaW51dGVzPTU=
+ttp://cdn.naturalbd.com:8083/j-SATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,MOHONA
 http://10.16.100.205/hls/mohona_tv_720.m3u8
 #EXTINF:-1 ,BIJOY
@@ -48,9 +48,9 @@ http://tv.ebox.live:8080/live/channel9.m3u8
 #EXTINF:-1 ,DURONTO
 http://10.16.100.201/hindi/duronto_720_cm.m3u8
 #EXTINF:-1 ,NAGORIK
-http://103.211.185.98:8082/59/index.m3u8?token=3bf255aa0d98d1df097d11086eb2bb190a3734d8-269680628e3876d4a431bec82e9a58fa-1600958378-1600947578&remote=27.54.151.213
-#EXTINF:-1 ,ANONDO
-http://103.211.185.98:8082/16/index.m3u8?token=6361cecabfa28e201aa31facfe25a06b0a550740-911c5f9fe489c35828f0c154d7a99619-1600958417-1600947617&remote=27.54.151.213
+http://45.249.187.238:8081/hls/new16.m3u8
+#EXTINF:-1 ,EKATTOR
+http://iptv.kitv.live:1935/live/Shari/MTV-P/2.m3u8
 #EXTINF:-1 ,SONY SIX HD
 http://tv.ebox.live:8080/live/sonysix.m3u8
 #EXTINF:-1 ,SONY ESPN
@@ -121,30 +121,24 @@ http://tv.ebox.live:8080/live/star-movies.m3u8
 http://zero4tv.anytv.live:8080/starmov/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,HBO
 http://tv.ebox.live:8080/live/hbo.m3u8
+#EXTINF:-1 ,HBO 2
+http://45.249.187.238:8081/hls/new13.m3u8
+#EXTINF:-1 ,LOTUS
+http://45.249.187.238:8081/hls/new22.m3u8
 #EXTINF:-1 ,NICK
 http://tv.ebox.live:8080/live/nick.m3u8
 #EXTINF:-1 ,NAT GEO
 http://tv.ebox.live:8080/live/natg.m3u8
 #EXTINF:-1 ,ANIMAL PLANET
 http://tv.ebox.live:8080/live/animale-planet.m3u8
-#EXTINF:-1 ,GTV
-http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8?nimblesessionid=24350298&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDc6NTk6NTIgQU0maGFzaF92YWx1ZT1VelRZcTJKUHNuQ3RWOFF2N1Z6UnFRPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 ,gtv 2
-http://tv.bdtv.xyz:8080/token/gazitv/chunks.m3u8?nimblesessionid=56327&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDc6NTI6NDAgQU0maGFzaF92YWx1ZT1YcDVrOStDR0lzVGNkTXZKMHBGeFJnPT0mdmFsaWRtaW51dGVzPTU=
-#EXTINF:-1 ,EKATTOR TV
-http://tv.bdtv.xyz:8080/token/ekattor/chunks.m3u8?nimblesessionid=56330&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDc6NTM6MzMgQU0maGFzaF92YWx1ZT16dFVNUWxlc0laUEZaeEdiNUk5QjlRPT0mdmFsaWRtaW51dGVzPTU=
 #EXTINF:-1 ,DURONTO
 http://cdn.naturalbd.com:8083/j-Duronto/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SATV
 http://cdn.naturalbd.com:8083/j-SATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SONY HD
 http://tv.ebox.live:8080/live/sonyhd.m3u8
-#EXTINF:-1 ,MOVIES NOW
-http://103.49.168.172:8081/ebox/in_movies_now/chunks.m3u8?nimblesessionid=24352090&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDg6MDI6MDUgQU0maGFzaF92YWx1ZT0xaHRnaE1OQUR1MHREbHpObnhIS0lBPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 ,DEEPTO TV
-http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8?nimblesessionid=24352549&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIwIDg6MDI6MzggQU0maGFzaF92YWx1ZT14KzVBbm5Xb3NBR250QjZ5KzQ1MWJnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 ,GTV HD
-http://tv.hkonline.com.bd:8080/2/index.m3u8?token=bbd97c8846258b4b35e9522318aec6ffa2eb9e97-5627bdfbd08c87a7f6b7f5cd97fd8089-1600859123-1600848323&remote=27.54.151.213
+http://45.249.187.238:8081/hls/live5.m3u8
 #EXTINF:-1 ,ALJAJEERA
 http://10.16.100.204/hls/alja-zeera.m3u8
 #EXTINF:-1 ,DHOOM MUSIC
@@ -163,63 +157,85 @@ http://10.16.100.207:8082/sports/qurantv.m3u8
 http://10.16.100.207:8082/sports/sunnahtv.m3u8
 #EXTINF:-1 ,GTV ICC
 http://10.16.100.207:8082/sports/bdchgazi.m3u8
-#EXTINF:-1 ,CN HD
-http://103.211.185.98:8082/79/index.m3u8?token=63d455a494eed801f5b44c5df71e638524c68ff1-81be3d05ce4596b19e03bd14faf79385-1600957548-1600946748&remote=27.54.151.213
-#EXTINF:-1 ,& FLIX HD
-http://103.211.185.98:8082/78/index.m3u8?token=f510acfbc1da70d5ddbc0307d90867a44ebeba77-8e1423c8c7494cc4deec92de4a79e344-1600957590-1600946790&remote=27.54.151.213
-#EXTINF:-1 ,BBC
-http://103.211.185.98:8082/44/2020/09/24/11/31/23-06000.ts?token=5132a3dac7b8b705edcb4785502b208e836983a3-fc75014b9d80918c84d35210a3c16944-1600957615-1600946815
-#EXTINF:-1 ,MNX
-http://103.211.185.98:8082/39/index.m3u8?token=339f3e6b83416c5a8be2726850aa7e830e275e21-987f72737ada9c3f39ce3ae011396fff-1600957637-1600946837&remote=27.54.151.213
-#EXTINF:-1 ,B4U MOVIES
-http://103.211.185.98:8082/45/index.m3u8?token=8d0ee735064fa0ba3a7a0784159b83b7de8f2c9b-7fe68e528bb8716ed85bea4d83596284-1600957649-1600946849&remote=27.54.151.213
-#EXTINF:-1 ,COLORS HD
-http://103.211.185.98:8082/66/index.m3u8?token=bcfb5c4b08d15c56756c161c189f8ead8d1cd63b-e7c0001c1c63cb5536493dda35822863-1600957684-1600946884&remote=27.54.151.213
-#EXTINF:-1 ,SONY 8
-http://103.211.185.98:8082/33/index.m3u8?token=6d58c9313e202fa9d5de4be814c0484275b369a7-215d5391ef447f17951f2a6ec99bf03d-1600957703-1600946903&remote=27.54.151.213
-#EXTINF:-1 ,ZEE BANGLA HD
-http://103.211.185.98:8082/34/index.m3u8?token=b5c48175be1849c30f9d937304f244defeb3cbd2-8bbc25c09b7dae1389287c2d9ad7bcdb-1600957722-1600946922&remote=27.54.151.213
-#EXTINF:-1 ,ZEE CINEMA
-http://103.211.185.98:8082/29/index.m3u8?token=f9785c29274368d020ea7902dc8be59838f373c1-9df1ef4e229ab02a52bab908d64041d5-1600957739-1600946939&remote=27.54.151.213
-#EXTINF:-1 ,STAR JHALSHA
-http://103.211.185.98:8082/30/index.m3u8?token=fabada41e268eec4553d7f842ae829dde485029f-091d193804bb9c395ac4a0a4d6c65dc4-1600957757-1600946957&remote=27.54.151.213
-#EXTINF:-1 ,AKASH 8
-http://103.211.185.98:8082/32/index.m3u8?token=4a0c28b49b65ec1e34e211e3c61a3f0f16e6e7be-119a9d97edcd6ea7e1b94ec84c474d75-1600957791-1600946991&remote=27.54.151.213
-#EXTINF:-1 ,ZEE CINEMA BANGLA
-http://103.211.185.98:8082/29/index.m3u8?token=38c93840331c16481046363e031e268fdb2579f8-a111d84e88b8e345720ccef226f79064-1600957806-1600947006&remote=27.54.151.213
-#EXTINF:-1 ,IPL STAR SPORTS
-http://103.211.185.98:8082/201/index.m3u8?token=b70daf7a164f9355ffc28b974b473ee50a8f0fd6-09791086669e8efac76aa54e054f4f09-1600957829-1600947029&remote=27.54.151.213
-#EXTINF:-1 ,STAR SPORTS 1
-http://103.211.185.98:8082/25/index.m3u8?token=dc8751129c1753c69eaf83c8b523ebf797a0e057-6e38445edb0d07351ce6b7dd6001f3b2-1600957853-1600947053&remote=27.54.151.213
-#EXTINF:-1 ,SONY SIX HD
-http://103.211.185.98:8082/24/index.m3u8?token=e6f116702a6517dbb39a00678700279d0b7e889c-5d444cfaf773fe3eef489ad0668250c0-1600957880-1600947080&remote=27.54.151.213
-#EXTINF:-1 ,SONY TEN 1 HD
-http://103.211.185.98:8082/20/index.m3u8?token=6ceadfe9516f83b1a4d76bbf87ee6b1488a86e27-af07e1ff1f1d2a3d22957b645e748396-1600957896-1600947096&remote=27.54.151.213
-#EXTINF:-1 ,SONY TEN 2 HD
-http://103.211.185.98:8082/21/index.m3u8?token=9ea29eae17422bfc00ba16b1344503b933e10acb-45dd84f6adb79c5c62900357caa38d03-1600957913-1600947113&remote=27.54.151.213
-#EXTINF:-1 ,SONY TEN 3 HD
-http://103.211.185.98:8082/22/index.m3u8?token=c861efd17a972b8130a9efafea59ee02bd1d52e8-e49243e19c4cc0951ca81820cb5d79e4-1600957939-1600947139&remote=27.54.151.213
-#EXTINF:-1 ,SONY ESPN
-http://103.211.185.98:8082/23/index.m3u8?token=11ca2304650cfac324c5ae8859bfd78c6d572c1b-57e4950578816ca7ee27e1591ede9332-1600957960-1600947160&remote=27.54.151.213
-#EXTINF:-1 ,STAR SPORT SEL 1 HD
-http://103.211.185.98:8082/27/index.m3u8?token=8c441ad247cb7c9e262239edde4c0b893449d55f-17c0858edfd2d993c660edf64ca48402-1600957978-1600947178&remote=27.54.151.213
-#EXTINF:-1 ,STAR SPORTS SEL 2 HD
-http://103.211.185.98:8082/28/index.m3u8?token=aadb1c851385607c896218262c05b6cb187bb900-a1a32ebc1e2c27337fc50aa63fc34c94-1600958004-1600947204&remote=27.54.151.213
-#EXTINF:-1 ,PTV SPORTS
-http://103.211.185.98:8082/73/index.m3u8?token=9702f28444d660ba86a3000fb6d578900da789d8-742798122bf7063d73f5393ec1409af0-1600958025-1600947225&remote=27.54.151.213
 #EXTINF:-1 ,& PIC
-http://103.211.185.98:8082/100/index.m3u8?token=f7a0b63737a4e911d3cc1bae814ce4577dcfdf7b-9e65344d1aa1bc3f4153b43df5cfe031-1600958046-1600947246&remote=27.54.151.213
-#EXTINF:-1 ,STAR GOLD HD
-http://103.211.185.98:8082/75/index.m3u8?token=86d50e8333cf9a5b336a7f6ec40d5e1683cda22d-5d63a2ccbbdb81324910210ff2586cf2-1600958177-1600947377&remote=27.54.151.213
-#EXTINF:-1 ,STAR PLUS
-http://103.211.185.98:8082/67/index.m3u8?token=aba8523df79bea3d127169a97d2a86228d63901f-8c78e1b476163ab7ce1cf0925576f48c-1600958192-1600947392&remote=27.54.151.213
+http://45.249.187.238:8081/hls/tsl-2.m3u8
+#EXTINF:-1 ,STAR GOLD 2
+http://45.249.187.238:8081/hls/tsl-3.m3u8
 #EXTINF:-1 ,ZEE TV HD
-http://103.211.185.98:8082/40/index.m3u8?token=6f9a56992c84ca1a55a2f0369ccc0deb45d9430b-37cb12d5b146ff78c7bc2fc2a0d29d28-1600958236-1600947436&remote=27.54.151.213
-#EXTINF:-1 ,ZEE BOLLYWOOD
-http://103.211.185.98:8082/76/index.m3u8?token=a8f8c0e994c60c34d6377a49e00fef5ceadcd12f-c3a040ba9577d8628f902ea3d7b6a2aa-1600958250-1600947450&remote=27.54.151.213
-#EXTINF:-1 ,& TV
-http://103.211.185.98:8082/74/index.m3u8?token=00f16bab53839b81777753567cabfe6cc6fbbb80-766428fee7db77f07d368c2463709034-1600958268-1600947468&remote=27.54.151.213
-#EXTINF:-1 ,SONY
-http://103.211.185.98:8082/38/2020/09/24/11/42/50-06000.ts?token=ed3d341acccb9e46b00a52c140c3f5407d674cec-096fc9172e573c7e2e8030c5b32d3411-1600958285-1600947485
+http://45.249.187.238:8081/hls/tsl-5.m3u8
 #EXTINF:-1 ,GTV NEW
-http://103.211.185.98:8082/1/index.m3u8?token=b9146348720cd14c5e1978adfd7b0afe03e70d6b-ed19bd1dd2168a78ebe24688be5e9dd7-1600958311-1600947511&remote=27.54.151.213
+http://103.135.208.14/live/ibox/bd/59.m3u8
+#EXTINF:-1 ,DISNEY
+http://45.249.187.238:8081/hls/live0.m3u8
+#EXTINF:-1 ,UTV ACTION
+http://45.249.187.238:8081/hls/tsl-7.m3u8
+#EXTINF:-1 ,& TV
+http://45.249.187.238:8081/hls/tsl-6.m3u8
+#EXTINF:-1 ,SAB
+http://45.249.187.238:8081/hls/tsl-4.m3u8
+#EXTINF:-1 ,CARTOON NETWORK
+http://45.249.187.238:8081/hls/new14.m3u8
+#EXTINF:-1 ,bflix movies
+http://cdn.naturalbd.com:8083/Bflix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,COLORS HD
+http://cdn.naturalbd.com:8083/j-ColorsHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,DW
+http://cdn.naturalbd.com:8083/j-DW/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,TLC HD
+http://cdn.naturalbd.com:8083/j-TLCHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SONY 8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
+#EXTINF:-1 ,ZEE BANGLA HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/21.m3u8
+#EXTINF:-1 ,TRAVEL XP
+http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
+#EXTINF:-1 ,B4U MOVIES
+http://iptv.kitv.live:1935/live/Shari/MTV-P/36.m3u8
+#EXTINF:-1 ,ENTERTAIN MOVIES
+http://iptv.kitv.live:1935/live/Shari/MTV-P/37.m3u8
+#EXTINF:-1 ,MN PLUS
+http://iptv.kitv.live:1935/live/Shari/MTV-P/38.m3u8
+#EXTINF:-1 ,EURO SPORTS
+http://iptv.kitv.live:1935/live/Shari/MTV-P/48.m3u8
+#EXTINF:-1 ,BBC
+http://iptv.kitv.live:1935/live/Shari/MTV-P/56.m3u8
+#EXTINF:-1 ,KOLKATA TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/59.m3u8
+#EXTINF:-1 ,GEO WILD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/60.m3u8
+#EXTINF:-1 ,DICOVERY HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8
+#EXTINF:-1 ,BBC EARTH
+http://iptv.kitv.live:1935/live/Shari/MTV-P/62.m3u8
+#EXTINF:-1 ,CARTOON NETWORK HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8
+#EXTINF:-1 ,DISNEY XD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
+#EXTINF:-1 ,SONY YAY
+http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8
+#EXTINF:-1 ,NICK ENG
+http://iptv.kitv.live:1935/live/Shari/MTV-P/68.m3u8
+#EXTINF:-1 ,8XM
+http://iptv.kitv.live:1935/live/Shari/MTV-P/72.m3u8
+#EXTINF:-1 ,ZEE ETC
+http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8
+#EXTINF:-1 ,MTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/75.m3u8
+#EXTINF:-1 ,9X JALWA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/76.m3u8
+#EXTINF:-1 ,MASTI
+http://iptv.kitv.live:1935/live/Shari/MTV-P/78.m3u8
+#EXTINF:-1 ,B4U MUSIC
+http://iptv.kitv.live:1935/live/Shari/MTV-P/79.m3u8
+#EXTINF:-1 ,ZING
+http://iptv.kitv.live:1935/live/Shari/MTV-P/81.m3u8
+#EXTINF:-1 ,JALWA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/82.m3u8
+#EXTINF:-1 ,E 24
+http://iptv.kitv.live:1935/live/Shari/MTV-P/83.m3u8
+#EXTINF:-1 ,MUSIC INDIA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/84.m3u8
+#EXTINF:-1 ,HISTORY
+http://iptv.kitv.live:1935/live/Shari/MTV-P/86.m3u8
+#EXTINF:-1 ,MUSIC RUSSIA
+http://iptv.kitv.live:1935/live/Shari/MTV-P/89.m3u8
