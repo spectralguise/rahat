@@ -3,8 +3,10 @@
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1 ,BTV
 http://45.249.187.238:8081/hls/new24.m3u8
+#EXTINF:-1 ,DISCOVERY HD
+http://tv2.ebox.live:8080/live/discovery.m3u8
 #EXTINF:-1 ,NTV
-http://10.16.100.205/hls/ntv_b_720.m3u8
+http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8?nimblesessionid=14788640&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDQ6NTU6MjkgUE0maGFzaF92YWx1ZT03NFgrVFpZS3ZocE1UUERlbHo0TTJBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 ,BanglaVision
 http://tv2.ebox.live:8080/live/banae3.m3u8
 #EXTINF:-1 ,ATN
@@ -16,27 +18,27 @@ http://tv2.ebox.live:8080/live/rtv.m3u8
 #EXTINF:-1 ,Boishakhi
 http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
 #EXTINF:-1 ,SATV
-ttp://cdn.naturalbd.com:8083/j-SATV/tracks-v1a1/mono.m3u8
+http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8?nimblesessionid=14786719&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDQ6NDY6MzggUE0maGFzaF92YWx1ZT1MbFdZZDgzVHRYemZJWWk5MXZoV0FBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 ,MOHONA
-http://10.16.100.205/hls/mohona_tv_720.m3u8
+http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8?nimblesessionid=14788138&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDQ6NTM6MjEgUE0maGFzaF92YWx1ZT15Q2hCM2txY1BoWlRrK3crdThTUzRnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 ,BIJOY
 http://10.16.100.203:8082/bangla/bijoytv.m3u8
 #EXTINF:-1 ,MYTV
-http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8?nimblesessionid=14787129&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDQ6NDg6MzMgUE0maGFzaF92YWx1ZT1XVFlHN0kxQTVuSDhTKytWSXpEL0x3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 ,GTV
 http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-1 ,ASIAN TV
-http://10.16.100.203:8082/bangla/tv_asian.m3u8
+http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8?nimblesessionid=14790148&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDU6MDE6MzUgUE0maGFzaF92YWx1ZT1sS0RWQ3FPRnIxV01oU2I4a29QQUJ3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 ,SOMOY
 http://10.16.100.205/hls/somoy_tv.m3u8
 #EXTINF:-1 ,INDEPENDENT TV
-http://10.16.100.203:8082/bangla/news_independent.m3u8
+hhttp://103.49.168.172:8081/ebox/bd_independent_tv/chunks.m3u8?nimblesessionid=14790566&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDU6MDM6MTQgUE0maGFzaF92YWx1ZT03MXEyaURxanlmUEp4TjhDSk4xSFdRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 ,News24
-http://tv.ebox.live:8080/live/ex-news24-20.m3u8
+http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1 ,DESH TV
 http://10.16.100.205/hls/desh_tv_720-00000814.ts
 #EXTINF:-1 ,DBC
-http://tv.ebox.live:8080/live/dbc.m3u8
+http://tv2.ebox.live:8080/live/dbc.m3u8
 #EXTINF:-1 ,ATN NEWS
 http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 #EXTINF:-1 ,GAAN
@@ -49,8 +51,12 @@ http://tv2.ebox.live:8080/live/channel9.m3u8
 http://10.16.100.201/hindi/duronto_720_cm.m3u8
 #EXTINF:-1 ,NAGORIK
 http://45.249.187.238:8081/hls/new16.m3u8
+#EXTINF:-1 ,RUPOSHI
+http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8?nimblesessionid=14787358&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDQ6NDk6MzUgUE0maGFzaF92YWx1ZT1tazlHWTErUzhOaSs3bHJrOHZvV1h3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 ,EKATTOR
-http://iptv.kitv.live:1935/live/Shari/MTV-P/2.m3u8
+http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8?nimblesessionid=14788226&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDQ6NTM6NDEgUE0maGFzaF92YWx1ZT1UOEhKRDR2YXNoMzFZWHZVMTZuZzlnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 ,ANONDO
+http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8?nimblesessionid=14788436&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDQ6NTQ6MzQgUE0maGFzaF92YWx1ZT1YSDNEVVNJQ3BldElOWW1oekU0aE93PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 ,SONY SIX HD
 http://tv2.ebox.live:8080/live/sonysix.m3u8
 #EXTINF:-1 ,SONY ESPN
@@ -91,6 +97,10 @@ http://tv2.ebox.live:8080/live/starsports-3.m3u8
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 #EXTINF:-1 ,STAR SPORTS SELECT 2 HD
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+#EXTINF:-1 ,AD SPORTS 2
+http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8?nimblesessionid=14789607&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDQ6NTk6MzAgUE0maGFzaF92YWx1ZT1ua0I5OFlmQktHRFBKS3dTb0UwaEhBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 ,SENATA SPORTS
+http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8?nimblesessionid=14789923&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDU6MDA6NDEgUE0maGFzaF92YWx1ZT1WOXhGUGdQalRWMnhwNVNPdFI5a2FBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 ,ZEE Bangla HD
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 ,STAR JHALSHA HD
