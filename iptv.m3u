@@ -26,7 +26,7 @@ http://10.16.100.203:8082/bangla/bijoytv.m3u8
 #EXTINF:-1 ,MYTV
 http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8?nimblesessionid=14787129&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDQ6NDg6MzMgUE0maGFzaF92YWx1ZT1XVFlHN0kxQTVuSDhTKytWSXpEL0x3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 ,GTV
-http://10.16.100.203:8082/bangla/gtv.m3u8
+http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
 #EXTINF:-1 ,ASIAN TV
 http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8?nimblesessionid=14790148&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDU6MDE6MzUgUE0maGFzaF92YWx1ZT1sS0RWQ3FPRnIxV01oU2I4a29QQUJ3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 ,SOMOY
@@ -101,6 +101,8 @@ http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8?nimblesessionid=14789607&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDQ6NTk6MzAgUE0maGFzaF92YWx1ZT1ua0I5OFlmQktHRFBKS3dTb0UwaEhBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 ,SENATA SPORTS
 http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8?nimblesessionid=14789923&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIwIDU6MDA6NDEgUE0maGFzaF92YWx1ZT1WOXhGUGdQalRWMnhwNVNPdFI5a2FBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 ,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:-1 ,ZEE Bangla HD
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 ,STAR JHALSHA HD
