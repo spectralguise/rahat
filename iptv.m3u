@@ -253,3 +253,5 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/84.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/86.m3u8
 #EXTINF:-1 ,MUSIC RUSSIA
 http://iptv.kitv.live:1935/live/Shari/MTV-P/89.m3u8
+#EXTINF:-1 ,Bein 1
+http://35.241.8.142/live/ch3_abr/live/ch3low/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDIwIDE6MDM6NDIgQU0maGFzaF92YWx1ZT1tTHBadEtIZVdBNUJmYWRRUkZydzhBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD00Ny4xNTMuMjMwLjMmc3RybV9sZW49NQ==
