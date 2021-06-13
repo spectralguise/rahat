@@ -62,11 +62,11 @@ http://tv2.ebox.live:8080/live/sonysix.m3u8
 #EXTINF:-1 ,SONY ESPN
 http://tv2.ebox.live:8080/live/sonyespn.m3u8
 #EXTINF:-1 ,SONY TEN 1 HD
-http://43.230.123.20:8082/21/index.m3u8
+http://tv2.ebox.live:8080/live/sonyten-1.m3u8
 #EXTINF:-1 ,SONY TEN 2 HD
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/Sky-Sports-Mix/chunks.m3u8
+http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:-1 ,SONY TEN 3 HD
-http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/Sky-Sports-Mix/chunks.m3u8
+http://tv2.ebox.live:8080/live/sonyten-3.m3u8
 #EXTINF:-1 ,TEN SPORTS
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
 #EXTINF:-1 ,WILLOW HD
