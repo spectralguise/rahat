@@ -1,2 +1,62 @@
-#EXTINF:-1 , Courtesy of N.Rahat
-https://go.skym3u.top/u79y.m3u
+#EXTM3U
+#EXTINF:-1 , N.Rahat Fifa Eng
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-2 , N.Rahat Fifa Eng 2
+https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
+#EXTINF:-3 , N.Rahat FS2
+https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238
+#EXTINF:-4 , N.Rahat Channel 559 TS
+http://145.239.5.177/559/mpegts
+#EXTINF:-5 , N.Rahat Channel 559 M3U8
+http://145.239.5.177:80/559/index.m3u8
+#EXTINF:-6 , N.Rahat Online24 1101
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-7 , N.Rahat Online24 1102
+http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
+#EXTINF:-8 , N.Rahat Mono 192
+http://74.208.30.121/a192/mono.m3u8
+#EXTINF:-9 , N.Rahat Stream 162.19
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTVL9TbgOeYnXUEC2UjoDBYk/m3u8
+#EXTINF:-10 , N.Rahat beIN Sports 1
+http://27.124.71.27/beIN_Sports_1/index.m3u8
+#EXTINF:-11 , N.Rahat beIN Sports 2
+http://27.124.71.27/beIN_Sports_2/index.m3u8
+#EXTINF:-12 , N.Rahat beIN Sports 3
+http://27.124.71.27/beIN_Sports_3/index.m3u8
+#EXTINF:-13 , N.Rahat beIN Sports Xumo
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-14 , N.Rahat TNT Sports 1
+http://27.124.71.27/TNT_Sports_1/index.m3u8
+#EXTINF:-15 , N.Rahat TNT Sports 2
+http://27.124.71.27/TNT_Sports_2/index.m3u8
+#EXTINF:-16 , N.Rahat TNT Sports 3
+http://27.124.71.27/TNT_Sports_3/index.m3u8
+#EXTINF:-17 , N.Rahat TyC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-18 , N.Rahat Andro BS1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-19 , N.Rahat Andro BS2
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-20 , N.Rahat Andro BS3
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-21 , N.Rahat Andro BS4
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-22 , N.Rahat 4K Good
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
+#EXTINF:-23 , N.Rahat Willow HD
+https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779283803&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2fe7bf4f892cf09f80087b8146545bad
+#EXTINF:-24 , N.Rahat T-Sports
+http://27.124.71.27/T-Sports/index.m3u8
+#EXTINF:-25 , N.Rahat T-Sports HD
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
+#EXTINF:-26 , N.Rahat Euro Sports HD
+https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
+#EXTINF:-27 , N.Rahat SSPTS1 Mono
+https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-28 , N.Rahat SSPTS1
+https://tvsen7.aynaott.com/sspts1/index.m3u8
+#EXTINF:-29 , N.Rahat Sony Ten Sports 1 HD
+https://ashtv.com.bd/server/channels/sony_ten_sports_1_hd.m3u8
+#EXTINF:-30 , N.Rahat Sony Ten Sports 2 HD
+https://ashtv.com.bd/server/channels/sony_ten_sports_2_hd.m3u8
+
